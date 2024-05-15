@@ -21,7 +21,7 @@ def makedamoney():
 	driver.close() # close the browser
 
 while (run):
-	time.sleep(86580) # wait 24 hours and 30 mins for button to respawn
 	makedamoney()
+	time.sleep(86580) # wait 24 hours and 30 mins for button to respawn
 	bank += 1
 
