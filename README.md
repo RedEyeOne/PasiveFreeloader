@@ -1,4 +1,7 @@
 # PasiveFreeloader
+
+Method no longer works as I believe they've changed how their bot detteciton works and cloudflare is very good protection. If you can find a way to work around it feel free to let me know and i'll update the bot!
+
 Collect stake daily free dollar using selenium python.
 
 Instructions
